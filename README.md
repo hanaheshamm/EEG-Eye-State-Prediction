@@ -12,7 +12,7 @@ Electroencephalography (EEG) is a non-invasive neuroimaging technique that recor
   - 1 for the eye-closed state
   - 0 for the eye-open state
 - The dataset captures continuous EEG measurements over a duration of 117 seconds. The eye state information was manually added based on video frame analysis.
-- Dataset: [EEG Eye State Classification Dataset](https://www.kaggle.com/datasets/robikscube/eye-state-classification-eegdataset/data?select=EEG_Eye_State_Classification.csv)
+- Dataset: [EEG Eye State Classification Dataset](https://www.kaggle.com/datasets/robikscube/eye-state-classification-eeg-dataset/data?select=EEG_Eye_State_Classification.csv)
 
 ## 3. Preprocessing Techniques:
 The EEG data underwent several preprocessing steps to ensure data quality and suitability for further analysis. The following techniques were applied:
