@@ -3,8 +3,10 @@
 ## Notebook Link
 Access the notebook on Google Colab: [EEG-Eye State Prediction Notebook](https://colab.research.google.com/drive/11Tx7Q9Gn3SijbyZy9JCNR-W2RAcw72Xm?usp=sharing)
 
+
+
 ## 1- Introduction:
-Electroencephalography (EEG) is a non-invasive neuroimaging technique that records electrical brain activity over time. In this project, we aim to preprocess EEG data and develop a classification model to determine the state of the eyes (open or closed) based on the recorded signals. This project presents a comprehensive analysis of EEG signal processing and eye state classification using machine learning techniques. The dataset used contains EEG recordings from a single individual, capturing electrical brain activity while detecting the state of their eyes (open or closed). The report outlines the data characteristics, preprocessing methods, feature extraction techniques, and the application of a Random Forest Classifier for eye state classification.
+Electroencephalography (EEG) is a non-invasive neuroimaging technique that records electrical brain activity over time. In this project, we aim to preprocess EEG data and develop a classification model to determine the state of the eyes (open or closed) based on the recorded signals. Additionally, Arduino code and hardware components were utilized to facilitate real-time actions, such as capturing or stopping image capture, based on the prediction of eye state. This project presents a comprehensive analysis of EEG signal processing and eye state classification using machine learning techniques. The dataset used contains EEG recordings from a single individual, capturing electrical brain activity while detecting the state of their eyes (open or closed). 
 
 
 ## 2. Data Description:
